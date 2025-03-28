@@ -1,0 +1,764 @@
+Quantify Compound Summary Report 
+
+Printed Fri Mar 07 10:32:48 2025
+
+Compound 1:  aminolevulinic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 2:  chlorogenic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	0.99	481.606
+
+Compound 3:  salicylic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 4:  cinnamic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	3.20	1591.699
+
+Compound 5:  serine
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 6:  silbin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	3.30	25852.438
+
+Compound 7:  jasmonate-isoleucine
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 8:  galangin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	4.79	19008.688
+
+Compound 9:  12-oxo-phytodienoic acid (OPDA)
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 10:  caffeic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.24	3869.868
+
+Compound 11:  ferulic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.87	1888.315
+
+Compound 12:  aspartic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 13:  jasmonic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	3.53	7124.634
+
+Compound 14:  biochanin A
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	4.72	22377.170
+
+Compound 15:  kaempferol
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	3.44	18439.584
+
+Compound 16:  homocysteine
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 17:  glutamic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 18:  6-hydroxiflavone
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	4.05	5452.622
+
+Compound 19:  abscisic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.90	18879.084
+
+Compound 20:  methionine
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 21:  calycosin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	4.72	14161.734
+
+Compound 22:  orotic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 23:  phenylalanine
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 24:  icaritin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	6.71	30659.600
+
+Compound 25:  adipic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 26:  neohesperidin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.38	8088.086
+
+Compound 27:  genistein
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	3.34	22407.131
+
+Compound 28:  baicalin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.55	3144.513
+
+Compound 29:  gluconic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 30:  naringein
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 31:  formononetin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	4.00	22170.881
+
+Compound 32:  malic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 33:  malonic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 34:  diosmetin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	3.41	7418.887
+
+Compound 35:  neohesperidin dihydrochalcone
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.79	8486.613
+
+Compound 36:  succinic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 37:  fumaric acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 38:  theaflavin-3'-gallate
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 39:  maleic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 40:  amentoflavone
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	3.90	10047.716
+
+Compound 41:  indole acetic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 42:  leucoside
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.82	5569.598
+
+Compound 43:  mirificin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.23	5825.779
+
+Compound 44:  brazilin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.28	3400.920
+
+Compound 45:  abscisic acid-d6
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 46:  cysteine
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 47:  morusin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	7.08	28404.170
+
+Compound 48:  glucosyl salicylate
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 49:  tartaric acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 50:  genkwanin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	4.84	20160.117
+
+Compound 51:  didymin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	3.01	7277.470
+
+Compound 52:  5,7-dihydroxychromone
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.10	8459.678
+
+Compound 53:  salicylic glucosyl ester
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 54:  ketoglutaric acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 55:  Isorhamnetin 3-O-neohesperidin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.88	5496.088
+
+Compound 56:  scutellarein
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.52	5638.405
+
+Compound 57:  abscisic acid D-glucopyranosyl ester
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 58:  (-)-epicatechin gallate
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.81	2921.396
+
+Compound 59:  wogonoside
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	3.14	2564.444
+
+Compound 60:  galacturonic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 61:  lysionotin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	4.69	2859.259
+
+Compound 62:  gibberellic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 63:  4-aminobenzoic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 64:  epicatechin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.27	7003.411
+
+Compound 65:  folic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 66:  alpinetin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 67:  2-O-galloylhyperin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.81	2715.384
+
+Compound 68:  isoxanthohumol
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	4.22	15172.714
+
+Compound 69:  taurine
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 70:  rhoifolin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.86	2167.796
+
+Compound 71:  dihydrojasmonic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 72:  2-pyrrolidone-5-carboxylic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 73:  hippuric acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 74:  gallocatechin gallate
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.36	735.013
+
+Compound 75:  isoquercetin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.83	6763.655
+
+Compound 76:  sinapic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 77:  shikimic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 78:  N-acetyl-L-aspartic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 79:  3-dehidroshikimic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 80:  farrerol
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	4.37	15844.872
+
+Compound 81:  vanilin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 82:  kuwanon G
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	5.36	15510.153
+
+Compound 83:  isobavachin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	4.60	8917.026
+
+Compound 84:  neobavaisoflavone
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	4.89	25167.643
+
+Compound 85:  nicotiflorin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 86:  spinosin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.72	4546.893
+
+Compound 87:  briboflavin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 88:  pipecolic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 89:  2-aminoadipic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 90:  salicylhydroxamic acid
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 91:  plantagoside
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.78	4140.939
+
+Compound 92:  salicylic acid-d5
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 93:  narcissoside
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 94:  puerarin 6-O-xyloside
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 95:  kaempferol 3-glucorhamnoside
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 96:  nepitrin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 97:  irigenin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 98:  narirutin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.08	5021.491
+
+Compound 99:  7,8-dihydroxyflavone
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 100:  sylimarine
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 101:  eriodictyol
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.84	4232.761
+
+Compound 102:  scopoletin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 103:  eriocitrin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.77	2522.702
+
+Compound 104:  mosloflavone
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 105:  pinocembrin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 106:  schaftoside
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.44	6344.014
+
+Compound 107:  homoplantaginin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.30	5817.453
+
+Compound 108:  daidzein
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 109:  5-hydroxy-7,8-dimethoxyflavone
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 110:  5,7-dimethoxiflavone
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 111:  liquiritigenin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 112:  herbacetin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.71	649.314
+
+Compound 113:  4',7-dimethoxyisoflavone
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 114:  tectoridin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.00	3288.928
+
+Compound 115:  taxifolin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.92	3672.117
+
+Compound 116:  kaempferitrin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.16	7671.772
+
+Compound 117:  tangeretin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 118:  astilbin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.93	3083.978
+
+Compound 119:  calycosin-7-O-beta-D-glucoside
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 120:  chrysosptertin B
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	4.58	7064.543
+
+Compound 121:  epimedin B
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 122:  jaceosidin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	3.57	8213.475
+
+Compound 123:  apigenin-7-glucuronide
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.15	1395.660
+
+Compound 124:  cimifugin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 125:  7,2'-dihydroxy-3',4'-dimethoxyisoflavane-7-O-glucoside
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	3.03	5701.790
+
+Compound 126:  guaijaverin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.99	13925.284
+
+Compound 127:  ononin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 128:  astragalin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.09	3729.417
+
+Compound 129:  linarin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 130:  corylifol A
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	6.61	22024.658
+
+Compound 131:  quercetin-3-O-sophoroside
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.43	1158.566
+
+Compound 132:  epimedin C
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 133:  epimedin A
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 134:  4-hydroxychalcone
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	4.53	24862.770
+
+Compound 135:  isosinensetin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 136:  hesperetin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 137:  oroxin A
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 138:  irisflorentin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 139:  casanthranol
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.23	15811.617
+
+Compound 140:  baohuoside I
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 141:  glucosylvitexin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 142:  isovitexin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 143:  typhaneoside
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 144:  vitexin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 145:  vaccarin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 146:  dihydromyricetin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	1.40	1048.422
+
+Compound 147:  rutin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.30	3411.978
+
+Compound 148:  medroxyprogesterone acetate
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 149:  myricetin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	2.30	3411.978
+
+Compound 150:  naringin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 151:  ampelopsin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits		
+
+Compound 152:  glabridin
+
+	#	Name	Sample Text	RT	Area
+1	1	scic_synapt_cvb_code_253	code1_LC_152bits	5.11	26428.285
+

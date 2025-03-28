@@ -1,0 +1,554 @@
+Quantify Compound Summary Report 
+
+Printed Mon Mar 17 08:47:11 2025
+
+Compound 1:  6-hydroxiflavone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard	4.03	92.613	15.000	13.78
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	4.03	239.778	30.000	26.60
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	4.03	552.067	75.000	53.80
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	4.02	1367.667	125.000	124.84
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	4.03	3074.708	250.000	273.53
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	4.03	5682.255	500.000	500.65
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	4.05	8565.732	750.000	751.81
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte				
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte				
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte				
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte				
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte				
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte				
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte				
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 2:  guayjaverin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard			15.000	
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard			30.000	
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	1.98	170.870	75.000	54.95
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	1.98	520.075	125.000	96.31
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	1.98	1684.148	250.000	234.17
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	1.98	4072.199	500.000	517.01
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	2.00	6441.045	750.000	797.57
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte				
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte				
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte				
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte				
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte				
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte				
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte				
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 3:  wogonoside
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard			15.000	
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard			30.000	
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	3.11	113.568	75.000	55.18
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	3.10	347.216	125.000	98.88
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	3.10	1082.496	250.000	236.38
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	3.10	2458.072	500.000	493.63
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	3.12	4181.436	750.000	815.93
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte				
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte				
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte				
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte				
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte				
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte				
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte				
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 4:  orientin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard			15.000	
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard			30.000	
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	1.55	128.990	75.000	54.69
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	1.55	388.985	125.000	103.78
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	1.55	1100.225	250.000	238.07
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	1.55	2586.459	500.000	518.68
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	1.56	3995.865	750.000	784.78
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte				
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte				
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte				
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte				
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte				
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte				
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte				
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 5:  5,7 dihydroxichromone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard	2.10	82.375	15.000	14.64
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	2.09	195.078	30.000	25.51
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	2.09	484.522	75.000	53.41
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	2.09	1157.071	125.000	118.23
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	2.09	2653.580	250.000	262.48
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	2.09	4976.996	500.000	486.42
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	2.12	8067.516	750.000	784.31
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte	2.09	987.468		101.88
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte	2.08	995.014		102.61
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte	2.08	943.146		97.61
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte	2.09	909.803		94.40
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte	2.09	860.932		89.69
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	2.09	1330.055		134.91
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	2.09	1255.216		127.69
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 6:  4-hydroxychalcone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard	4.51	221.526	7.000	4.58
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard	4.51	679.789	15.000	14.88
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	4.51	1636.921	30.000	36.40
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	4.51	3359.665	75.000	75.14
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	4.51	6488.589	125.000	145.49
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	4.51	12458.951	250.000	279.74
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	4.51	21278.107	500.000	478.03
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	4.53	31938.641	750.000	717.73
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte	4.51	5234.669		117.30
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte	4.51	5148.387		115.36
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte	4.51	4991.214		111.82
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte	4.51	4810.939		107.77
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte	4.50	4731.058		105.97
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	4.51	6668.600		149.54
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	4.51	6374.303		142.92
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 7:  corylifol A
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard	6.59	375.124	10.000	6.90
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard	6.59	849.000	20.000	21.69
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	6.59	1815.196	41.000	51.86
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	6.59	3479.038	81.000	103.82
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	6.59	6480.221	161.000	197.53
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	6.59	11026.134	312.000	339.48
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	6.59	17086.064	625.000	528.71
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard			940.000	
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte	6.59	1854.331		53.09
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte	6.59	1840.330		52.65
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte	6.59	1734.610		49.35
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte	6.59	1716.368		48.78
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte	6.59	1653.616		46.82
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	6.59	2618.469		76.95
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	6.59	2582.919		75.84
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 8:  formononetin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard	3.98	93.501	7.000	5.55
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard	3.99	285.810	15.000	13.03
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	3.99	747.531	30.000	30.97
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	3.98	1592.396	75.000	63.81
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	3.98	3562.618	125.000	140.39
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	3.98	7080.589	250.000	277.13
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	3.98	12348.684	500.000	481.88
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	4.00	18969.920	750.000	739.24
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte	3.99	102.334		5.90
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte	3.98	106.393		6.05
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte	3.98	106.762		6.07
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte	3.98	107.988		6.12
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte	3.98	88.698		5.37
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	3.98	3236.911		127.73
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	3.98	2988.003		118.06
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 9:  baicalein
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard			15.000	
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard			30.000	
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	3.76	32.230	75.000	51.52
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	3.76	114.066	125.000	102.59
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	3.75	337.136	250.000	241.82
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	3.75	833.186	500.000	551.42
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	3.77	1155.598	750.000	752.65
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte				
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte				
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte				
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte				
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte				
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	3.75	111.127		100.76
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	3.75	105.704		97.38
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 10:  naringenin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard	3.34	69.371	7.000	7.20
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard	3.34	125.606	15.000	10.61
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	3.33	395.137	30.000	26.94
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	3.33	947.532	75.000	60.42
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	3.33	2182.328	125.000	135.25
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	3.33	4377.479	250.000	268.29
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	3.33	7871.505	500.000	480.04
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	3.37	12544.406	750.000	763.24
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte	3.34	1962.739		121.95
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte	3.33	1887.804		117.40
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte	3.33	1817.901		113.17
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte	3.33	1774.789		110.56
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte	3.33	1681.999		104.93
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	3.33	1906.629		118.55
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	3.33	1789.749		111.46
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 11:  acacetin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard	4.62	74.169	7.000	7.82
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard	4.61	121.378	15.000	9.65
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	4.61	427.483	30.000	21.56
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	4.62	1211.397	75.000	52.04
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	4.61	3043.683	125.000	123.30
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	4.61	7109.161	250.000	281.40
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	4.61	12826.779	500.000	503.75
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	4.63	19223.135	750.000	752.49
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte	4.62	160.151		11.16
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte	4.61	331.932		17.84
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte	4.61	2533.611		103.46
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte	4.61	2491.546		101.82
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte	4.61	2488.738		101.72
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte	4.61	2234.043		91.81
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte	4.61	2203.919		90.64
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	4.61	3219.114		130.12
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	4.61	3100.247		125.50
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte	4.61	168.266		11.48
+
+Compound 12:  scutellarein
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard			15.000	
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard			30.000	
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	2.55	6.693	75.000	64.43
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	2.52	10.269	125.000	81.50
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	2.50	42.458	250.000	235.18
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	2.51	105.274	500.000	535.09
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	2.53	157.368	750.000	783.80
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte	2.49	12.198		90.71
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte	2.50	11.316		86.50
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte	2.51	9.832		79.41
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte	2.51	14.668		102.50
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte	2.51	17.299		115.06
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	2.50	23.444		144.40
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	2.50	15.505		106.50
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 13:  morusin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard	7.04	380.860	7.000	0.97
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard	7.04	730.864	15.000	17.27
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	7.04	1751.519	30.000	64.79
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	7.04	3256.588	75.000	134.87
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	7.04	6004.154	125.000	262.81
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	7.04	8767.106	250.000	391.46
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	7.04	10171.854	500.000	456.86
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	7.06	9443.844	750.000	422.97
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte				
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte				
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte				
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte				
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte				
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte				
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte				
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 14:  eriodictyol
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard			15.000	
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	2.82	40.271	30.000	30.86
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	2.82	98.291	75.000	46.06
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	2.82	247.997	125.000	85.27
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	2.82	728.860	250.000	211.23
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	2.82	1892.899	500.000	516.13
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	2.85	3131.082	750.000	840.45
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte				
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte				
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte				
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte				
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte				
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	2.82	2841.507		764.60
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	2.82	2716.554		731.87
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 15:  epicatechin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard			15.000	
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard			30.000	
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	1.26	55.755	75.000	54.33
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	1.26	221.237	125.000	98.53
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	1.26	631.872	250.000	208.20
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	1.27	1780.989	500.000	515.10
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	1.29	2936.972	750.000	823.84
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte				
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte				
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte				
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte				
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte				
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	1.27	2094.771		598.91
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	1.27	2087.782		597.04
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 16:  tectorigenin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard	3.40	115.578	15.000	13.76
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	3.40	295.455	30.000	27.31
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	3.40	669.102	75.000	55.44
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	3.40	1623.659	125.000	127.32
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	3.40	3548.895	250.000	272.28
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	3.40	6367.261	500.000	484.49
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	3.42	10084.717	750.000	764.40
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte				
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte				
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte				
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte				
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte				
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	3.39	8504.422		645.41
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	3.39	7940.888		602.98
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 17:  eupatilin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard	4.25	105.912	15.000	13.51
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	4.24	349.558	30.000	25.26
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	4.24	791.741	75.000	46.59
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	4.24	2323.057	125.000	120.45
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	4.24	5428.829	250.000	270.26
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	4.24	10396.618	500.000	509.89
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	4.26	15561.802	750.000	759.04
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte	4.24	10852.617		531.89
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte	4.24	10624.841		520.90
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte	4.24	10146.751		497.84
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte	4.24	9686.595		475.64
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte	4.24	9324.911		458.20
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	4.24	13970.813		682.30
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	4.24	13781.828		673.18
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 18:  taxifolin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard			15.000	
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard			30.000	
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	1.90	54.419	75.000	59.23
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	1.90	139.332	125.000	92.54
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	1.90	448.651	250.000	213.86
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	1.90	1166.090	500.000	495.26
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	1.93	2042.732	750.000	839.11
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte	1.90	1429.953		598.76
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte	1.90	1457.228		609.46
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte	1.90	1365.535		573.49
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte	1.90	1244.388		525.97
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte	1.90	1239.002		523.86
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	1.90	2210.955		905.09
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	1.90	2226.395		911.15
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 19:  neobavaisoflavone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard	4.88	151.467	7.000	5.13
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard	4.88	440.902	15.000	13.42
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	4.88	1154.706	30.000	33.87
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	4.87	2407.341	75.000	69.75
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	4.87	4954.778	125.000	142.73
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	4.87	9792.577	250.000	281.31
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	4.88	16970.033	500.000	486.92
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	4.89	25066.918	750.000	718.86
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte	4.88	18487.422		530.38
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte	4.88	17974.318		515.69
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte	4.87	17373.080		498.46
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte	4.88	16514.631		473.87
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte	4.88	16182.600		464.36
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	4.87	21821.988		625.91
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	4.88	21272.105		610.15
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 20:  bavachin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard	5.09	322.102	7.000	3.75
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard	5.08	792.296	15.000	15.91
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	5.08	1719.495	30.000	39.88
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	5.08	3571.226	75.000	87.76
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	5.08	6820.748	125.000	171.78
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	5.08	13190.952	250.000	336.49
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	5.08	21929.670	500.000	562.44
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	5.10	20829.221	750.000	533.98
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte				
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte				
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte				
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte				
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte				
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte				
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte				
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 21:  mirificin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard			15.000	
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	1.22	88.930	30.000	28.46
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	1.22	199.570	75.000	48.98
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	1.22	539.110	125.000	111.94
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	1.22	1341.825	250.000	260.79
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	1.23	2799.650	500.000	531.11
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	1.23	3973.219	750.000	748.73
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte	1.22	8801.052		1643.95
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte	1.22	8369.158		1563.86
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte	1.23	8106.898		1515.23
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte	1.22	7325.313		1370.30
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte	1.22	5697.134		1068.39
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	1.22	10088.987		1882.77
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	1.22	9815.266		1832.01
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 22:  amentoflavone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard			15.000	
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard			30.000	
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	3.89	248.328	75.000	53.45
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	3.90	717.625	125.000	95.56
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	3.89	2454.092	250.000	251.37
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	3.89	5821.615	500.000	553.52
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	3.91	7967.968	750.000	746.11
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte	3.89	16397.947		1502.50
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte	3.89	15194.006		1394.47
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte	3.89	14939.079		1371.60
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte	3.88	14262.587		1310.90
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte	3.88	14005.802		1287.86
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	3.89	21359.391		1947.67
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	3.88	21140.641		1928.05
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 23:  silibinin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			10.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard	3.28	626.005	20.000	14.41
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	3.28	1725.765	41.000	43.52
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	3.28	3572.831	81.000	92.42
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	3.28	7198.317	161.000	188.41
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	3.28	13122.800	312.000	345.26
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	3.28	22439.619	625.000	591.92
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	3.30	34230.199	940.000	904.07
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte	3.28	44913.605		1186.91
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte	3.28	43063.973		1137.94
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte	3.28	42131.922		1113.27
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte	3.28	40121.707		1060.05
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte	3.28	38864.742		1026.77
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte	3.28	58937.867		1558.20
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte	3.28	56205.832		1485.87
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 24:  jaceosidin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard			15.000	
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard			30.000	
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	1.55	75.401	75.000	60.33
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	1.55	182.385	125.000	119.58
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	1.55	375.770	250.000	226.68
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	1.55	941.951	500.000	540.23
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	1.56	1326.479	750.000	753.19
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte				
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte				
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte				
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte				
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte				
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte				
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte				
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+
+Compound 25:  rhoifolin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_LCMS_001	mix_1	Standard			7.000	
+2	2	synapt_cvb_quat_LCMS_002	mix_2	Standard			15.000	
+3	3	synapt_cvb_quat_LCMS_003	mix_3	Standard	2.15	96.707	30.000	28.30
+4	4	synapt_cvb_quat_LCMS_004	mix_4	Standard	2.15	269.326	75.000	50.82
+5	5	synapt_cvb_quat_LCMS_005	mix_5	Standard	2.15	669.256	125.000	103.00
+6	6	synapt_cvb_quat_LCMS_006	mix_6	Standard	2.15	1675.713	250.000	234.30
+7	7	synapt_cvb_quat_LCMS_007	mix_7	Standard	2.15	3828.907	500.000	515.20
+8	8	synapt_cvb_quat_LCMS_008	mix_8	Standard	2.16	5999.641	750.000	798.39
+9	9	synapt_cvb_quat_LCMS_009	vial 1 quaternary	Analyte				
+10	10	synapt_cvb_quat_LCMS_010	vial 2 quaternary	Analyte				
+11	11	synapt_cvb_quat_LCMS_011	vial 3 quaternary	Analyte				
+12	12	synapt_cvb_quat_LCMS_012	vial 4 quaternary	Analyte				
+13	13	synapt_cvb_quat_LCMS_013	vial 5 quaternary	Analyte				
+14	14	synapt_cvb_quat_LCMS_014	vial 6 quaternary	Analyte				
+15	15	synapt_cvb_quat_LCMS_015	vial 7 quaternary	Analyte				
+16	16	synapt_cvb_quat_LCMS_016	vial 8 quaternary	Analyte				
+17	17	synapt_cvb_quat_LCMS_017	vial 9 quaternary	Analyte				
+18	18	synapt_cvb_quat_LCMS_018	vial 10 quaternary	Analyte				
+

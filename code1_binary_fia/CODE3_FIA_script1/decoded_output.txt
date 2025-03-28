@@ -1,0 +1,409 @@
+Quantify Compound Summary Report 
+
+Printed Sun Mar 16 18:38:51 2025
+
+Compound 1:  Naringenin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	37263.609
+
+Compound 2:  4-hydroxychalcone
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	34917.828
+
+Compound 3:  formononetin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	29713.146
+
+Compound 4:  bavachin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	23254.955
+
+Compound 5:  tectorigenin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	9761.800
+
+Compound 6:  baicalein
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 7:  5,7 dihydroxichromone
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	41925.637
+
+Compound 8:  6-hydroxiflavone
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	4265.114
+
+Compound 9:  genkwanin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	15722.121
+
+Compound 10:  scutellarein
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	27024.500
+
+Compound 11:  eriodictyol
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	14797.224
+
+Compound 12:  epicatechin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	16220.563
+
+Compound 13:  herbacetin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	29835.162
+
+Compound 14:  taxifolin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	20202.621
+
+Compound 15:  myricetin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	55296.594
+
+Compound 16:  neobavaisoflavone
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	21818.346
+
+Compound 17:  jaceosidin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	5744.975
+
+Compound 18:  lysionotin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	2424.861
+
+Compound 19:  bavachinin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	23254.955
+
+Compound 20:  isoxanthohumol
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	11199.891
+
+Compound 21:  icaritin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	59543.895
+
+Compound 22:  chrysopsterin B
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	3154.706
+
+Compound 23:  corylifol A
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	16948.453
+
+Compound 24:  morusin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	74032.078
+
+Compound 25:  guayjaverin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	23733.275
+
+Compound 26:  baicalin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	6860.190
+
+Compound 27:  orientin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	44064.645
+
+Compound 28:  wogonoside
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	4168.315
+
+Compound 29:  scutellarin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	7840.792
+
+Compound 30:  isoquercetin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	26149.344
+
+Compound 31:  plantagoside
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	19204.186
+
+Compound 32:  silibinin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	56087.059
+
+Compound 33:  amentoflavone
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	29047.266
+
+Compound 34:  mirificin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	14072.706
+
+Compound 35:  schaftoside
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.09	9781.077
+
+Compound 36:  rhoifolin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	3267.726
+
+Compound 37:  leucoside
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	7664.841
+
+Compound 38:  tiliroside
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	12598.604
+
+Compound 39:  erocitrin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	9787.387
+
+Compound 40:  spinosin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	4484.455
+
+Compound 41:  neohesperidin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	7732.190
+
+Compound 42:  neohesperidin dihidrochalcone
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	10674.870
+
+Compound 43:  2``-O-gallylhyperin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.09	12886.462
+
+Compound 44:  isohmnetin 3-o neohesperidin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	7225.928
+
+Compound 45:  quercetin-3-O-sophoroside
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.09	5790.242
+
+Compound 46:  kwanonG
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	52103.418
+
+Compound 47:  theaflavin-3´´gallate
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197		Standard		
+
+Compound 48:  cinnamic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	2315.265
+
+Compound 49:  caffeic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	10223.515
+
+Compound 50:  abscisic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	8818.114
+
+Compound 51:  jasmonic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	3474.428
+
+Compound 52:  ferrulic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.12	1095.509
+
+Compound 53:  d6 abscisic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 54:  salicylic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 55:  indole acetic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 56:  jasmonate isoleucine
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	260.202
+
+Compound 57:  OPDA
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.10	439.692
+
+Compound 58:  SAG
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 59:  chlorogenic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	1729.563
+
+Compound 60:  ABA_glucoside
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 61:  dihydrojasmonic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 62:  adipic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 63:  malic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 64:  galacturonic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 65:  fumaric acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 66:  gibelleric acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 67:  astilbin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 68:  ascorbic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard	0.11	767.518
+
+Compound 69:  nicotinic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 70:  gentisic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 71:  folic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 72:  galacturonic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 73:  scopoletin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 74:  ketoglutaric acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 75:  maleic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 76:  piruvic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 77:  vanilin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 78:  sinapic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 79:  salicilhydroxamic
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 80:  indole-3-piruvic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+
+Compound 81:  indole-3-carboxaldehyde
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_197	Flavonoids 80 bits	Standard		
+

@@ -1,0 +1,530 @@
+Quantify Compound Summary Report 
+
+Printed Mon Mar 17 08:56:34 2025
+
+Compound 1:  6-hydroxiflavone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.13	49.576	30.000	33.17
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard			62.000	
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	80.600	125.000	111.18
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	142.767	250.000	267.49
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	207.104	500.000	429.27
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	349.617	750.000	787.61
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	444.536	1000.000	1026.28
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte				
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte				
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte				
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte				
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte				
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte				
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte				
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 2:  guayjaverin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.13	34.226	30.000	16.50
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.12	65.418	62.000	58.22
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	149.561	125.000	170.77
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	243.610	250.000	296.57
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	425.618	500.000	540.02
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.12	568.082	750.000	730.57
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	698.002	1000.000	904.35
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte				
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte				
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte				
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte				
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte				
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte				
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte				
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 3:  wogonoside
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard			30.000	
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	21.042	62.000	74.55
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.14	32.126	125.000	131.56
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	45.996	250.000	202.90
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.12	81.978	500.000	387.97
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	162.663	750.000	802.96
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.12	217.900	1000.000	1087.07
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte				
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte				
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte				
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte				
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte				
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte				
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte				
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 4:  orientin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.12	29.186	30.000	30.77
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	42.794	62.000	53.65
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	88.670	125.000	130.80
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	165.354	250.000	259.76
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.12	308.521	500.000	500.53
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.12	512.025	750.000	842.76
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.12	545.293	1000.000	898.71
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte				
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte				
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte				
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte				
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte				
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte				
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte				
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 5:  5,7 dihydroxichromone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.12	23.711	30.000	39.46
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	54.624	62.000	63.19
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	125.097	125.000	117.27
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	234.328	250.000	201.09
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	449.170	500.000	365.96
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	992.256	750.000	782.71
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	1467.380	1000.000	1147.32
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte	0.12	112.574		107.66
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte	0.12	135.387		125.16
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte	0.13	123.820		116.29
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte	0.13	138.100		127.25
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte	0.12	130.424		121.36
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.13	172.825		153.89
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.13	180.961		160.14
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 6:  4-hydroxychalcone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.12	29.796	30.000	29.17
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	156.161	62.000	74.45
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	316.584	125.000	131.94
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	536.235	250.000	210.65
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	1072.955	500.000	402.97
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	2081.970	750.000	764.54
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	3027.261	1000.000	1103.27
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte	0.12	174.596		81.06
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte	0.13	197.798		89.37
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte	0.12	199.075		89.83
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte	0.12	220.435		97.49
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte	0.12	187.905		85.83
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.13	300.257		126.09
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.13	316.765		132.00
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 7:  corylifol A
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.13	80.700	41.000	32.16
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	150.528	81.000	95.18
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	250.472	161.000	185.39
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	383.626	312.000	305.58
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	656.930	625.000	552.27
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	1029.876	940.000	888.90
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	1541.299	1250.000	1350.52
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte	0.12	110.268		58.84
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte	0.13	105.154		54.23
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte	0.13	106.005		55.00
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte	0.12	111.234		59.72
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte	0.13	111.455		59.92
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.13	125.601		72.68
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.13	125.061		72.20
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 8:  formononetin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard			30.000	
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.12	96.214	62.000	62.68
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	243.970	125.000	141.68
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	424.337	250.000	238.12
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	747.486	500.000	410.89
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	1369.286	750.000	743.36
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	2018.138	1000.000	1090.28
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte				
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte				
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte				
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte				
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte				
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.12	161.730		97.71
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.13	165.761		99.86
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 9:  baicalein
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.12	59.476	30.000	44.66
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	64.117	62.000	53.18
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.12	95.453	125.000	110.71
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	138.803	250.000	190.28
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	262.125	500.000	416.67
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	479.266	750.000	815.27
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	626.869	1000.000	1086.22
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte	0.12	50.498		28.18
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte	0.12	50.041		27.34
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte	0.13	50.513		28.21
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte	0.12	50.078		27.41
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte	0.13	48.557		24.62
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.13	105.584		129.30
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.13	104.420		127.17
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 10:  naringenin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard			30.000	
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	44.588	62.000	65.06
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.12	108.033	125.000	138.64
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.12	187.404	250.000	230.69
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	358.752	500.000	429.42
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	600.956	750.000	710.33
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	948.016	1000.000	1112.85
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte	0.13	72.137		97.01
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte	0.12	60.749		83.80
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte	0.13	74.142		99.33
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte	0.13	67.861		92.05
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte	0.13	62.368		85.68
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.13	56.725		79.13
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.12	81.610		107.99
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 11:  acacetin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.13	45.954	30.000	32.94
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	92.181	62.000	65.71
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	186.762	125.000	132.77
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	294.791	250.000	209.36
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	572.239	500.000	406.06
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	1100.522	750.000	780.59
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	1536.338	1000.000	1089.57
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte	0.13	138.884		98.83
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte	0.12	121.456		86.47
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte	0.13	140.831		100.21
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte	0.13	130.657		92.99
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte	0.13	153.461		109.16
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.13	138.089		98.26
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.13	147.879		105.20
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 12:  scutellarein
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.12	14.136	30.000	42.22
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	22.376	62.000	58.17
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.12	47.691	125.000	107.15
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	97.698	250.000	203.91
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	208.593	500.000	418.50
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	391.682	750.000	772.78
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	568.167	1000.000	1114.28
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte	0.12	88.770		186.64
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte	0.13	75.423		160.81
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte	0.13	86.306		181.87
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte	0.12	95.564		199.78
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte	0.13	88.794		186.68
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.12	92.890		194.61
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.13	94.859		198.42
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 13:  morusin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.13	31.162	30.000	16.30
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	85.999	62.000	65.09
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	182.421	125.000	150.88
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	366.051	250.000	314.26
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	636.289	500.000	554.69
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	746.387	750.000	652.65
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	1095.345	1000.000	963.13
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte				
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte				
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte				
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte				
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte				
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte				
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte				
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 14:  eriodictyol
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.13	26.435	30.000	31.20
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	32.180	62.000	49.88
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.12	62.886	125.000	149.73
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.12	91.767	250.000	243.64
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.12	169.328	500.000	495.84
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	242.431	750.000	733.55
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	328.416	1000.000	1013.15
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte				
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte				
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte				
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte				
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte				
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.12	140.827		403.17
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.13	141.797		406.32
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 15:  epicatechin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.13	29.763	30.000	27.14
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	37.093	62.000	52.36
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.12	71.023	125.000	169.14
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.12	89.351	250.000	232.21
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.12	163.726	500.000	488.18
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.12	235.059	750.000	733.67
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.12	316.601	1000.000	1014.30
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte				
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte				
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte				
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte				
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte				
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.12	144.369		421.56
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.13	143.453		418.41
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 16:  tectorigenin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.13	21.463	30.000	39.74
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	44.182	62.000	63.73
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	97.741	125.000	120.28
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	171.564	250.000	198.23
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	308.872	500.000	343.22
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.12	705.528	750.000	762.04
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	1110.599	1000.000	1189.76
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte				
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte				
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte				
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte				
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte				
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.13	593.886		644.16
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.12	595.400		645.76
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+
+Compound 17:  eupatilin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.13	36.215	30.000	31.13
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	53.468	62.000	64.85
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	85.583	125.000	127.62
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.12	142.856	250.000	239.57
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	241.706	500.000	432.78
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	404.963	750.000	751.87
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	567.308	1000.000	1069.19
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte	0.13	241.763		432.89
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte	0.13	245.402		440.00
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte	0.13	243.786		436.84
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte	0.13	246.389		441.93
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte	0.13	253.583		455.99
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.13	285.252		517.89
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.13	292.570		532.19
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 18:  taxifolin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard			30.000	
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	37.051	62.000	52.58
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	58.210	125.000	141.38
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.12	88.169	250.000	267.12
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	137.350	500.000	473.52
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.12	205.374	750.000	759.01
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	261.219	1000.000	993.39
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte	0.13	169.071		606.65
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte	0.13	177.832		643.42
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte	0.13	172.481		620.96
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte	0.12	182.685		663.79
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte	0.13	180.775		655.77
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.13	164.016		585.44
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.13	172.009		618.98
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 19:  neobavaisoflavone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.13	71.476	30.000	23.86
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	131.955	62.000	69.05
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	241.082	125.000	150.58
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	372.789	250.000	248.97
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	608.072	500.000	424.75
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	1007.374	750.000	723.07
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	1480.723	1000.000	1076.71
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte	0.13	716.491		505.75
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte	0.13	695.363		489.97
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte	0.13	727.976		514.33
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte	0.13	734.066		518.88
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte	0.12	714.504		504.27
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.13	790.997		561.42
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.13	784.497		556.56
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte	0.13	54.521		11.20
+
+Compound 20:  bavachin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.15	26.738	30.000	40.72
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.14	40.354	62.000	50.22
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.12	116.739	125.000	103.51
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	314.902	250.000	241.75
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.13	677.876	500.000	494.98
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.12	1094.790	750.000	785.83
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard			1000.000	
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte				
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte				
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte				
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte				
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte				
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte				
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte				
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 21:  mirificin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.13	15.342	30.000	27.93
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.12	34.338	62.000	64.21
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	66.900	125.000	126.41
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.12	133.191	250.000	253.03
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.12	270.804	500.000	515.89
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.12	391.107	750.000	745.68
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	515.790	1000.000	983.84
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte	0.12	557.745		1063.98
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte	0.12	555.772		1060.21
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte	0.12	555.293		1059.29
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte	0.12	579.982		1106.45
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte	0.12	581.932		1110.18
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.13	551.650		1052.34
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.12	557.308		1063.14
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 22:  amentoflavone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard			30.000	
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.14	50.204	62.000	48.96
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	124.574	125.000	137.92
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.13	236.332	250.000	271.60
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.14	477.041	500.000	559.54
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.13	592.432	750.000	697.57
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	821.347	1000.000	971.40
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte	0.13	899.198		1064.53
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte	0.13	942.571		1116.41
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte	0.13	957.291		1134.02
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte	0.13	958.714		1135.72
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte	0.13	981.280		1162.72
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.13	1205.143		1430.50
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.13	1149.866		1364.38
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 23:  silibinin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.12	82.636	41.000	22.92
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.12	196.115	81.000	86.84
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.12	400.603	161.000	202.02
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.12	693.649	312.000	367.09
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.12	1203.328	625.000	654.18
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.12	1584.023	940.000	868.61
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.13	2187.152	1250.000	1208.34
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte	0.12	71.875		16.86
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte	0.12	63.463		12.12
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte	0.12	2085.604		1151.14
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte	0.13	2126.746		1174.31
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte	0.12	2188.967		1209.36
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte	0.12	2089.611		1153.39
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte	0.12	2018.057		1113.09
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte	0.13	2105.498		1162.34
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte	0.13	2050.471		1131.35
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte	0.13	90.392		27.29
+
+Compound 24:  jaceosidin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard			30.000	
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard			62.000	
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard			125.000	
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard			250.000	
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard			500.000	
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard			750.000	
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard			1000.000	
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte				
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte				
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte				
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte				
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte				
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte				
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte				
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+
+Compound 25:  rhoifolin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	synapt_cvb_quat_FIA_001	mix_3	Standard	0.14	10.667	30.000	28.40
+2	2	synapt_cvb_quat_FIA_002	mix_4	Standard	0.13	14.670	62.000	62.12
+3	3	synapt_cvb_quat_FIA_003	mix_5	Standard	0.13	23.788	125.000	138.92
+4	4	synapt_cvb_quat_FIA_004	mix_6	Standard	0.12	34.971	250.000	233.11
+5	5	synapt_cvb_quat_FIA_005	mix_7	Standard	0.14	66.021	500.000	494.65
+6	6	synapt_cvb_quat_FIA_006	mix_8	Standard	0.12	99.339	750.000	775.28
+7	7	synapt_cvb_quat_FIA_007	mix_9	Standard	0.12	124.179	1000.000	984.51
+8	8	synapt_cvb_quat_FIA_008	vial 1 quaternary	Analyte				
+9	9	synapt_cvb_quat_FIA_009	vial 2 quaternary	Analyte				
+10	10	synapt_cvb_quat_FIA_010	vial 3 quaternary	Analyte				
+11	11	synapt_cvb_quat_FIA_011	vial 4 quaternary	Analyte				
+12	12	synapt_cvb_quat_FIA_012	vial 5 quaternary	Analyte				
+13	13	synapt_cvb_quat_FIA_013	vial 6 quaternary	Analyte				
+14	14	synapt_cvb_quat_FIA_014	vial 7 quaternary	Analyte				
+15	15	synapt_cvb_quat_FIA_015	vial 8 quaternary	Analyte				
+16	16	synapt_cvb_quat_FIA_016	vial 9 quaternary	Analyte				
+17	17	synapt_cvb_quat_FIA_017	vial 10 quaternary	Analyte				
+

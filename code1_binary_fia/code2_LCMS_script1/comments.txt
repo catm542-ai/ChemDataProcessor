@@ -1,0 +1,6 @@
+usa el script 1
+leer el fichero decoded_output a partir de la lista de analitos del fichero code.xlsx
+recuerda que hay 16 viales
+hay que leer la columna que pone area (el dato más a la derecha)
+
+ojala este salga bien

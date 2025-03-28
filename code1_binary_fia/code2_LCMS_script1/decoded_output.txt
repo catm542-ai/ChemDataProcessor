@@ -1,0 +1,1444 @@
+Quantify Compound Summary Report 
+
+Printed Tue Mar 18 14:25:41 2025
+
+Compound 1:  theaflavin-3'-gallate
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 2:  cinnamic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	3.19	5237.313
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	3.18	4729.896
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	3.18	5148.370
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	3.17	4279.245
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	3.18	2167.708
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	3.18	6136.415
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	3.18	6012.995
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	3.18	4783.060
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	3.18	3994.395
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	3.17	4691.808
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	3.17	8793.341
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	3.17	5570.477
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	3.18	5788.833
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	3.18	6503.042
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	3.18	5825.746
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	3.17	7885.716
+
+Compound 3:  caffeic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	1.25	2132.977
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	1.25	2224.057
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	1.25	1861.943
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	1.25	1298.152
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	1.25	4353.820
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	1.25	2192.034
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	1.25	2775.748
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	1.25	1584.502
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	1.25	2074.095
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	1.25	6696.354
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	1.25	1245.987
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	1.25	1035.310
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	1.25	1772.503
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	1.24	2187.911
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	1.25	4852.040
+
+Compound 4:  silibin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	3.28	1151.403
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	3.27	1241.620
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	3.27	1696.805
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	3.27	1150.272
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	3.27	1850.442
+
+Compound 5:  ferulic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	2.02	2335.850
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	2.00	2342.021
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	2.00	1706.103
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	2.00	2686.354
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	2.00	2540.451
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	2.00	1782.366
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	2.00	1389.066
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	2.00	2549.695
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	2.00	6881.001
+
+Compound 6:  jasmonic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	3.51	33047.668
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	3.51	16772.889
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	3.51	18856.664
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	3.49	7029.496
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	3.51	11995.998
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	3.50	9483.907
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	3.50	10608.783
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 7:  kaempferol
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	3.43	48001.969
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	3.42	39508.398
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	3.42	84911.039
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	3.42	65776.641
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 8:  6-hydroxiflavone
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	4.03	11471.705
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	4.03	12768.986
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	4.02	6342.910
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	4.02	10076.691
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	4.03	8182.056
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	4.02	6153.138
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	4.02	9264.931
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	4.03	9074.014
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	4.03	11384.746
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	4.03	18581.910
+
+Compound 9:  jasmonate isoleucine
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 10:  abscisic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	2.88	58926.129
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	2.88	47904.770
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	2.88	49372.945
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	2.88	28007.855
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	2.88	63611.008
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	2.88	51273.594
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	2.88	27798.262
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	2.87	49543.957
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	2.88	59520.320
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	2.88	58944.367
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	2.88	71633.180
+
+Compound 11:  calycosin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	2.94	511.607
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	2.94	533.653
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	2.93	735.991
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	2.93	425.774
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	2.93	804.524
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	2.94	364.720
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	2.93	564.437
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	2.93	267.992
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	2.94	530.575
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	2.93	1270.183
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	2.93	505.463
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	2.93	396.026
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	2.94	293.115
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	2.93	581.546
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	2.93	749.085
+
+Compound 12:  icaritin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	6.73	12552.441
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	6.69	46951.590
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	6.69	92986.414
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	6.69	68880.313
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	6.69	111353.578
+
+Compound 13:  neohesperidin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	2.37	22810.793
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	2.37	22729.082
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	2.37	23393.752
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	2.37	23427.977
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	2.37	21729.059
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	2.37	24311.104
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 14:  salicylic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	2.21	485.883
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	2.19	289.303
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	2.19	293.335
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	2.18	281.780
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	2.18	325.985
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	2.18	374.474
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	2.19	285.424
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 15:  baicalin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	2.54	10872.393
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	2.53	11895.611
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	2.53	5744.750
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	2.53	7682.965
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	2.53	9450.890
+
+Compound 16:  naringein
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	3.34	23776.840
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	3.33	22677.520
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	3.33	24022.605
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	3.33	30507.965
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	3.33	27859.273
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	3.33	37138.406
+
+Compound 17:  gibberellic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 18:  formononetin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	3.98	41892.105
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	3.98	29895.100
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	3.98	24051.359
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	3.98	20462.525
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	3.98	32205.254
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	3.98	23715.338
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	3.98	23849.324
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	3.98	27311.648
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	3.98	42079.387
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	3.98	34379.586
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	3.98	28748.563
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	3.98	27843.617
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	3.98	38920.367
+
+Compound 19:  diosmetin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	3.49	13351.154
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	3.48	14530.541
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	3.47	13026.279
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	3.48	11147.416
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	3.48	5853.916
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	3.48	15353.700
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	3.48	9476.744
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	3.47	10621.354
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	3.47	9250.530
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	3.47	10705.335
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	3.46	18731.822
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	3.47	11847.078
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	3.48	7676.178
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	3.48	7574.698
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	3.47	12521.396
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	3.48	18527.441
+
+Compound 20:  neohesperidin dihydrochalcone
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	2.77	13714.064
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	2.77	8110.848
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	2.77	25274.445
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 21:  indole acetic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	2.42	90.837
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	2.41	83.042
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	2.41	132.034
+
+Compound 22:  amentoflavone
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	3.88	17235.313
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	3.88	12722.997
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	3.88	13480.746
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	3.88	14632.103
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	3.88	14741.139
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	3.88	14782.293
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	3.87	24963.689
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	3.88	14442.587
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 23:  leucoside
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	1.81	18440.059
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	1.80	29211.170
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 24:  mirificin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	1.23	709.074
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	1.23	2816.313
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	1.23	1765.084
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	1.23	2578.704
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	1.23	1952.338
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	1.23	2690.783
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	1.23	4548.342
+
+Compound 25:  malic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 26:  chlorogenic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	1.00	4663.693
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	1.00	3237.173
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	1.00	3052.130
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	0.99	3003.119
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	1.00	1155.965
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	1.00	1916.444
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	0.99	954.071
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	1.00	2494.684
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	1.00	1472.635
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	0.99	1300.469
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	0.99	2274.883
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	1.00	2160.329
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	1.00	2430.785
+
+Compound 27:  morusin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	7.06	33489.168
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	7.05	36765.203
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	7.05	29832.350
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	7.05	29389.857
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	7.05	16471.398
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	7.05	49748.262
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	7.05	24522.355
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	7.05	30251.629
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	7.05	35788.285
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	7.07	20225.354
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	7.05	39946.914
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	7.05	42324.898
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	7.05	19482.104
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	7.05	22435.652
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	7.05	35503.746
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	7.05	43598.016
+
+Compound 28:  didymin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	2.99	37047.398
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	2.99	59811.383
+
+Compound 29:  5,7-dihydroxychromone
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	2.10	5937.024
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	2.09	5228.129
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	2.10	7159.106
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	2.10	13019.075
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	2.09	13378.942
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	2.09	9708.066
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	2.09	9366.538
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	2.10	6975.744
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 30:  Isorhamnetin 3-O-neohesperidin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	1.87	785.171
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	1.86	1015.172
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	1.86	647.878
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	1.87	417.470
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	1.86	705.103
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	1.86	525.442
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	1.87	935.057
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 31:  (-)-epicatechin gallate
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	1.80	4865.389
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	1.80	2225.518
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	1.79	3504.224
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	1.79	3147.905
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	1.79	4292.482
+
+Compound 32:  wogonoside
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	3.13	6968.729
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	3.12	5875.995
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	3.12	2925.071
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	3.12	8367.415
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	3.12	5644.527
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte	3.11	8673.258
+
+Compound 33:  galacturonic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 34:  eupatilin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	4.25	18808.789
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	4.24	213.238
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	4.24	19170.223
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	4.24	13446.982
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	4.24	17612.963
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	4.24	17633.660
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	4.24	17010.393
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	4.24	19793.084
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	4.24	40297.895
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	4.24	18355.561
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	4.24	19879.012
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 35:  epicatechin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	1.28	3746.896
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	1.28	2557.125
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	1.28	2506.487
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	1.27	2120.078
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	1.28	1254.291
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	1.27	2855.324
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	1.27	2732.206
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	1.28	1561.614
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	1.27	1939.750
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	1.28	2275.621
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	1.28	2749.675
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	1.27	2098.589
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	1.27	1941.612
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	1.27	2136.862
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	1.27	2914.887
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 36:  alpinetin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	3.64	2029.859
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	3.64	1936.509
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	3.63	1678.384
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 37:  2-O-galloylhyperin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	1.80	21458.588
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 38:  isoxanthohumol
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	4.20	39966.109
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	4.20	45135.547
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	4.20	23338.980
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	4.20	59184.332
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	4.20	42441.570
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	4.20	41167.711
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	4.20	41644.793
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	4.20	1387.122
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 39:  rhoifolin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	2.15	4196.315
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	2.15	4368.560
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	2.14	5969.621
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 40:  gallocatechin gallate
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	1.38	562.523
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	1.36	185.800
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	1.36	356.241
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	1.36	250.164
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	1.36	138.035
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	1.36	211.648
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	1.36	181.574
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	1.36	70.225
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	1.36	149.205
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 41:  sinapic acid
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 42:  isoquercetin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	1.82	14346.954
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	1.82	7302.789
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	1.82	13230.769
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	1.82	11272.590
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	1.82	13920.600
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	1.81	11268.830
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	1.81	14278.318
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	1.82	24482.484
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	1.81	15004.654
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	1.82	11819.250
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	1.82	13391.497
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	1.82	16815.393
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 43:  farrerol
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	4.36	14433.475
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	4.35	12429.982
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	4.35	14395.294
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	4.35	12452.342
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	4.35	12126.764
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	4.35	16580.137
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	4.35	13416.843
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	4.35	13812.788
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	4.35	11753.017
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	4.35	13907.451
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	4.35	23282.736
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	4.35	13948.325
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	4.35	11795.472
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	4.35	16256.897
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	4.35	16640.463
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 44:  kuwanon G
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	5.34	43729.031
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	5.34	36834.059
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	5.33	39790.328
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	5.34	67669.414
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	5.34	44096.238
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	5.34	30764.215
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 45:  isobavachin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	4.58	21516.654
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	4.58	24293.361
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 46:  neobavaisoflavone
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	4.87	30997.531
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	4.88	33561.031
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	4.88	38155.332
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	4.87	30913.348
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	4.87	60633.281
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 47:  spinosin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	1.71	19092.510
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	1.71	16449.109
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	1.71	14781.041
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	1.72	13689.094
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	1.71	14922.122
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	1.71	15367.986
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 48:  plantagoside
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	1.77	8384.424
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	1.77	11332.685
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	1.77	8578.232
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	1.77	13199.932
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	1.77	7571.250
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	1.77	12206.591
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	1.77	8847.099
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	1.77	8891.722
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 49:  salicylic acid-d5
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 50:  narirutin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	2.07	10171.696
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	2.06	14167.271
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	2.06	8744.300
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	2.06	11298.307
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	2.06	14491.146
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	2.06	12929.360
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	2.06	8733.858
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	2.06	8471.368
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	2.06	10626.120
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	2.06	6178.341
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 51:  eriodictyol
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	2.83	4701.085
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	2.82	3318.551
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	2.82	3970.665
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	2.82	2947.400
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	2.82	1430.994
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	2.82	4103.994
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	2.82	2700.296
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	2.82	3568.734
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	2.82	2673.113
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	2.82	2753.879
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	2.82	4758.025
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	2.82	3061.209
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	2.82	2564.808
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	2.82	3178.292
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	2.82	3174.789
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 52:  eriocitrin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	1.76	14616.495
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	1.76	13667.979
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	1.76	12868.063
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 53:  schaftoside
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	1.43	7733.283
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	1.43	6960.270
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	1.43	5971.961
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	1.43	7330.747
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 54:  homoplantaginin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	2.29	19981.172
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	2.29	24984.818
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	2.29	20304.332
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	2.29	16657.506
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	2.29	18295.078
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	2.28	24826.432
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 55:  herbacetin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	2.70	145.588
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	2.70	200.377
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	2.70	142.340
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 56:  tectoridin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	1.99	8457.012
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	1.98	6495.587
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	1.99	3973.999
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	1.99	4826.825
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 57:  oronin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 58:  taxifolin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	1.92	3426.458
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	1.91	2385.160
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	1.91	2557.790
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	1.91	2580.448
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	1.91	1550.349
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	1.91	2498.135
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	1.91	1995.001
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	1.91	2469.547
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	1.91	1717.864
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	1.91	1339.084
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	1.91	3635.987
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	1.91	2158.771
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	1.91	1641.283
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	1.91	2328.690
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	1.91	2388.473
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 59:  astilbin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	1.93	5440.126
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	1.93	6490.802
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	1.93	8212.619
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	1.93	7155.432
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	1.93	4557.034
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	1.92	8341.881
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	1.93	6650.606
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	1.93	7895.379
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	1.92	6000.630
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	1.92	6588.623
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	1.93	12693.545
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	1.92	7174.813
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	1.93	5080.775
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	1.93	6633.051
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	1.94	5978.829
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 60:  chrysosptertin B
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	4.56	22401.869
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	4.56	27127.965
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	4.56	19996.580
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	4.56	20784.320
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	4.56	32391.029
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	4.56	21151.625
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 61:  jaceosidin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	3.56	19753.156
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	3.55	18393.879
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	3.56	14754.871
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	3.55	13244.293
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 62:  7,2'-dihydroxy-3',4'-dimethoxyisoflavane-7-O-glucoside
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	3.01	14839.824
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	3.01	16920.475
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	3.01	11474.439
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	3.01	7740.053
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	3.01	17762.834
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	3.01	9660.635
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	3.00	28377.422
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	3.01	12477.985
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	3.01	13050.624
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 63:  guaijaverin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	1.99	4729.419
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	1.98	7292.527
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	1.98	5610.099
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 64:  astragalin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	2.08	35081.594
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	2.07	35361.320
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	2.08	9689.857
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	2.08	36579.391
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	2.07	24613.646
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	2.08	267.462
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	2.08	35193.840
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	2.08	37049.750
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 65:  liquiritigenin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 66:  corylifol A
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	6.60	47659.023
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	6.60	36020.199
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	6.60	38927.301
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	6.59	33425.043
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	6.60	28581.426
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	6.59	52074.246
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	6.59	32950.152
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	6.59	44542.277
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	6.59	35666.832
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	6.60	35249.848
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	6.60	66247.148
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	6.60	45045.379
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	6.59	30575.199
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	6.59	47669.832
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	6.60	47803.617
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 67:  genistein
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	3.34	125829.031
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	3.32	59333.770
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	3.32	67170.398
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	3.32	102457.820
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	3.32	66264.727
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	3.32	104311.789
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	3.32	121212.656
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	3.32	52794.723
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	3.32	113685.742
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	3.32	101636.094
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	3.32	61227.074
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	3.32	91808.445
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	3.33	52423.543
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	3.32	73216.602
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 68:  4-hydroxychalcone
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	4.52	36453.160
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	4.51	44597.598
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	4.51	38413.934
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	4.51	35405.816
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte		
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	4.51	41717.219
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	4.51	31236.137
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 69:  hesperetin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte	3.54	216145.281
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	3.54	204423.594
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	3.55	207334.344
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte	3.54	344670.063
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	3.55	167739.969
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	3.54	237535.969
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 70:  OPDA
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte		
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte	5.94	9135.172
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte	5.94	9926.427
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	5.94	10670.094
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	5.94	11410.637
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	5.93	10712.268
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	5.93	16934.256
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte	5.94	12009.903
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 71:  dihydromyricetin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	1.42	10079.033
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte		
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte	1.40	8436.101
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte		
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte		
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	1.40	5782.851
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte	1.40	7976.721
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte	1.40	2233.469
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte		
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte		
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+
+Compound 72:  engeretin
+
+	#	Name	Sample Text	Type	RT	Area
+1	1	scic_synapt_cvb_code_826	code2_1	Analyte	2.23	149015.609
+2	2	scic_synapt_cvb_code_827	code2_2	Analyte	2.22	132395.281
+3	3	scic_synapt_cvb_code_828	code2_3	Analyte		
+4	4	scic_synapt_cvb_code_829	code2_4	Analyte		
+5	5	scic_synapt_cvb_code_830	code2_5	Analyte	2.22	113651.945
+6	6	scic_synapt_cvb_code_831	code2_6	Analyte	2.22	137141.344
+7	7	scic_synapt_cvb_code_832b	code2_7	Analyte		
+8	8	scic_synapt_cvb_code_833	code2_8	Analyte		
+9	9	scic_synapt_cvb_code_834	code2_9	Analyte	2.22	134886.813
+10	10	scic_synapt_cvb_code_835	code2_10	Analyte		
+11	11	scic_synapt_cvb_code_836	code2_11	Analyte		
+12	12	scic_synapt_cvb_code_837	code2_12	Analyte		
+13	13	scic_synapt_cvb_code_838	code2_13	Analyte	2.22	159406.125
+14	14	scic_synapt_cvb_code_839	code2_14	Analyte	2.22	217023.078
+15	15	scic_synapt_cvb_code_840	code2_15	Analyte		
+16	16	scic_synapt_cvb_code_841a	code2_16	Analyte		
+

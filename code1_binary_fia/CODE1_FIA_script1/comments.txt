@@ -1,0 +1,3 @@
+usa el script 1
+leer el fichero decoded_output a partir de la lista de analitos del fichero code.xlsx
+recuerda que hay 5 viales

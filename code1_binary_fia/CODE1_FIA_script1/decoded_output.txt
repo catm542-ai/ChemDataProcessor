@@ -1,0 +1,292 @@
+Quantify Compound Summary Report 
+
+Printed Mon Mar 24 16:10:23 2025
+
+Compound 1:  Jasmonate-Isoleucine
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1			
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 2:  icaritin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.12	183458.641	
+2	2	synapt_code1_FIA_016	vial2	0.14	184744.891	
+3	3	synapt_code1_FIA_017	vial3	0.12	218680.016	
+4	4	synapt_code1_FIA_018	vial4	0.14	208943.375	
+5	5	synapt_code1_FIA_019	vial5	0.12	198475.828	
+
+Compound 3:  neohesperidin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1			
+2	2	synapt_code1_FIA_016	vial2	0.12	13336.345	
+3	3	synapt_code1_FIA_017	vial3	0.12	18195.398	
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5	0.12	15466.013	
+
+Compound 4:  kaempferol
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.14	97427.781	
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3	0.14	116766.906	
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 5:  genistein
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1			
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4	0.14	79680.906	
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 6:  baicalin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.14	1691.608	
+2	2	synapt_code1_FIA_016	vial2	0.14	826.241	
+3	3	synapt_code1_FIA_017	vial3	0.14	1065.749	
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5	0.14	1454.956	
+
+Compound 7:  naringenin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1			
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4	0.12	69296.344	
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 8:  formononetin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.14	62245.609	
+2	2	synapt_code1_FIA_016	vial2	0.14	75403.734	
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5	0.12	121530.570	
+
+Compound 9:  herbacetin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1			
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 10:  Neohesperidin Dihydrochalcone
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.12	29270.828	
+2	2	synapt_code1_FIA_016	vial2	0.11	29396.854	
+3	3	synapt_code1_FIA_017	vial3	0.12	31637.211	
+4	4	synapt_code1_FIA_018	vial4	0.12	26301.990	
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 11:  homoplantaginin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.12	36728.027	
+2	2	synapt_code1_FIA_016	vial2	0.12	39425.539	
+3	3	synapt_code1_FIA_017	vial3	0.12	32327.246	
+4	4	synapt_code1_FIA_018	vial4	0.12	14286.721	
+5	5	synapt_code1_FIA_019	vial5	0.12	19409.836	
+
+Compound 12:  eupatilin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1			
+2	2	synapt_code1_FIA_016	vial2	0.12	6325.974	
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 13:  engeletin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.12	98089.086	
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 14:  amentoflavone
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.12	71634.297	
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 15:  biochanin A
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.14	139221.516	
+2	2	synapt_code1_FIA_016	vial2	0.14	142436.406	
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 16:  bavachinin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1			
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3	0.12	10666.639	
+4	4	synapt_code1_FIA_018	vial4	0.12	11458.923	
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 17:  leucoside
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1			
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 18:  mirificin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.12	41297.938	
+2	2	synapt_code1_FIA_016	vial2	0.12	45716.559	
+3	3	synapt_code1_FIA_017	vial3	0.12	60169.098	
+4	4	synapt_code1_FIA_018	vial4	0.12	29765.678	
+5	5	synapt_code1_FIA_019	vial5	0.12	41651.938	
+
+Compound 19:  morusin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.12	213861.672	
+2	2	synapt_code1_FIA_016	vial2	0.12	246983.563	
+3	3	synapt_code1_FIA_017	vial3	0.12	148014.703	
+4	4	synapt_code1_FIA_018	vial4	0.12	177862.766	
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 20:  didymin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1			
+2	2	synapt_code1_FIA_016	vial2	0.12	27425.758	
+3	3	synapt_code1_FIA_017	vial3	0.12	27293.379	
+4	4	synapt_code1_FIA_018	vial4	0.12	25342.277	
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 21:  5,7 dihydroxichromone
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.14	75056.656	
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5	0.14	140676.438	
+
+Compound 22:  Isorhamnetin 3-O-neohesperidin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1			
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3	0.12	30931.240	
+4	4	synapt_code1_FIA_018	vial4	0.12	23930.869	
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 23:  kaempferitrin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1			
+2	2	synapt_code1_FIA_016	vial2	0.12	17880.572	
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 24:  epicatechin gallate
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.12	41142.617	
+2	2	synapt_code1_FIA_016	vial2	0.12	37862.449	
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4	0.12	11342.973	
+5	5	synapt_code1_FIA_019	vial5	0.12	24290.186	
+
+Compound 25:  wogonoside
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1			
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 26:  epicatechin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.12	53954.266	
+2	2	synapt_code1_FIA_016	vial2	0.12	44997.086	
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4	0.12	52746.117	
+5	5	synapt_code1_FIA_019	vial5	0.11	309.317	
+
+Compound 27:  2-O-galloylhyperin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.12	25636.752	
+2	2	synapt_code1_FIA_016	vial2	0.12	20957.275	
+3	3	synapt_code1_FIA_017	vial3	0.14	8600.746	
+4	4	synapt_code1_FIA_018	vial4	0.14	9981.895	
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 28:  isoxanthohumol
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.12	42555.211	
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 29:  orientin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1			
+2	2	synapt_code1_FIA_016	vial2	0.12	56339.227	
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4	0.12	74747.969	
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 30:  gallocatechin gallate
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.12	12487.341	
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4	0.14	57.129	
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 31:  theaflavin-3-gallate
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1	0.17	1497.027	
+2	2	synapt_code1_FIA_016	vial2			
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4			
+5	5	synapt_code1_FIA_019	vial5			
+
+Compound 32:  isoquercetin
+
+	#	Name	Sample Text	RT	Area	Std. Conc
+1	1	synapt_code1_FIA_015	vial1			
+2	2	synapt_code1_FIA_016	vial2	0.12	41485.199	
+3	3	synapt_code1_FIA_017	vial3			
+4	4	synapt_code1_FIA_018	vial4	0.12	53556.512	
+5	5	synapt_code1_FIA_019	vial5			
+

@@ -1,0 +1,268 @@
+Quantify Compound Summary Report 
+
+Printed Tue Mar 18 14:59:28 2025
+
+Compound 1:  5,7 dihydroxichromone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	2.12	59.103	15.000	13.91
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	2.12	151.615	30.000	28.19
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	2.11	322.803	62.000	54.61
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	2.11	703.505	125.000	113.39
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	2.11	1532.625	250.000	241.38
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	2.11	3405.593	500.000	530.52
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	2.11	261.545		45.16
+
+Compound 2:  wogonoside
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	3.15	10.198	15.000	13.36
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	3.12	45.827	30.000	25.01
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	3.13	104.341	62.000	44.14
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	3.13	290.562	125.000	105.02
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	3.13	683.070	250.000	233.34
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	3.13	1685.727	500.000	561.14
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte				
+
+Compound 3:  4-hydroxychalcone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	4.53	321.781	15.000	11.89
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	4.53	875.439	30.000	30.55
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	4.53	1953.209	62.000	66.90
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	4.54	3880.825	125.000	131.90
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	4.53	7449.261	250.000	252.23
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	4.53	14457.224	500.000	488.54
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	4.53	24776.693		836.51
+
+Compound 4:  silibinin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	3.30	360.070	21.000	18.20
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	3.30	858.473	42.000	38.28
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	3.30	2047.982	84.000	86.20
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	3.30	4056.903	166.000	167.15
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	3.30	7779.555	312.000	317.14
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	3.31	15371.694	625.000	623.04
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	3.30	5253.510		215.36
+
+Compound 5:  formononetin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	4.01	158.105	15.000	12.82
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	4.01	417.994	30.000	28.47
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	4.01	927.586	62.000	59.18
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	4.01	2059.845	125.000	127.40
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	4.01	4055.389	250.000	247.63
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	4.01	8352.141	500.000	506.51
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	4.00	4042.777		246.87
+
+Compound 6:  rhofolin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	2.18	23.807	15.000	13.56
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	2.17	76.036	30.000	26.54
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	2.16	177.487	62.000	51.74
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	2.17	380.722	125.000	102.24
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	2.17	922.688	250.000	236.90
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	2.17	2186.892	500.000	551.02
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte				
+
+Compound 7:  baicalein
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard			15.000	
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	3.77	27.044	30.000	27.51
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	3.78	79.822	62.000	47.48
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	3.78	185.814	125.000	87.57
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	3.78	525.239	250.000	215.99
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	3.79	1509.745	500.000	588.45
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	3.78	3570.827		1368.22
+
+Compound 8:  bavachin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	5.12	359.798	15.000	12.63
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	5.11	889.839	30.000	31.51
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	5.11	1899.630	62.000	67.47
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	5.11	3742.976	125.000	133.12
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	5.11	6906.056	250.000	245.77
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	5.12	13805.264	500.000	491.48
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	5.12	4.437		
+
+Compound 9:  naringenin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	3.36	82.899	15.000	13.24
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	3.37	205.740	30.000	25.50
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	3.36	529.600	62.000	57.82
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	3.36	1185.222	125.000	123.27
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	3.36	2423.286	250.000	246.85
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	3.36	5113.041	500.000	515.33
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	3.36	6179.295		621.76
+
+Compound 10:  acacetin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	4.63	85.523	15.000	12.09
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	4.63	305.161	30.000	25.57
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	4.64	806.182	62.000	56.34
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	4.64	1823.192	125.000	118.79
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	4.64	3865.518	250.000	244.20
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	4.64	8438.804	500.000	525.01
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	4.63	15238.568		942.55
+
+Compound 11:  scutellarein
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	2.85	5.272	15.000	17.01
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	2.84	2.410	30.000	12.27
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	2.85	28.348	62.000	55.18
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	2.85	64.918	125.000	115.68
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	2.85	153.791	250.000	262.70
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	2.86	308.817	500.000	519.16
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	2.53	833.228		1386.68
+
+Compound 12:  eriodictyol
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	2.85	11.185	15.000	14.17
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	2.85	27.551	30.000	21.12
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	2.84	103.617	62.000	53.44
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	2.85	221.306	125.000	103.43
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	2.84	512.299	250.000	227.03
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	2.85	1302.762	500.000	562.81
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	2.84	517.859		229.40
+
+Compound 13:  epicatechin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	1.29	18.154	15.000	14.56
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	1.29	45.139	30.000	24.55
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	1.29	121.176	62.000	52.69
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	1.28	256.175	125.000	102.66
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	1.28	575.222	250.000	220.75
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	1.29	1510.141	500.000	566.78
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	1.28	501.891		193.61
+
+Compound 14:  tectorigenin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	3.42	68.822	15.000	14.56
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	3.42	146.357	30.000	24.51
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	3.42	369.041	62.000	53.12
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	3.42	863.054	125.000	116.57
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	3.42	1885.165	250.000	247.85
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	3.42	4046.002	500.000	525.39
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	3.42	8043.519		1038.85
+
+Compound 15:  herbacetin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard			15.000	
+2	2	scic_synapt_cvb_code_370	mix_3	Standard			30.000	
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	2.71	8.234	62.000	48.75
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	2.71	25.304	125.000	124.26
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	2.72	52.940	250.000	246.51
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	2.72	114.199	500.000	517.49
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	2.72	316.419		1412.03
+
+Compound 16:  taxifolin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	1.93	22.098	15.000	18.44
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	1.92	29.726	30.000	23.97
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	1.93	78.459	62.000	59.29
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	1.93	148.876	125.000	110.32
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	1.93	294.425	250.000	215.81
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	1.93	761.322	500.000	554.18
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	1.93	3033.031		2200.59
+
+Compound 17:  6-hydroxiflavone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	4.05	46.786	15.000	13.54
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	4.05	137.452	30.000	27.49
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	4.05	293.756	62.000	51.54
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	4.06	679.890	125.000	110.96
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	4.06	1524.147	250.000	240.87
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	4.06	3452.583	500.000	537.59
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	4.05	210.903		38.80
+
+Compound 18:  neobavaisoflavone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	4.91	269.871	15.000	13.48
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	4.90	637.186	30.000	30.20
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	4.90	1335.674	62.000	61.99
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	4.91	2775.128	125.000	127.51
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	4.91	5432.916	250.000	248.47
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	4.91	10966.804	500.000	500.34
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	4.90	14001.161		638.45
+
+Compound 19:  amentoflavone
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	3.91	83.351	15.000	15.88
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	3.91	157.512	30.000	25.64
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	3.91	348.085	62.000	50.72
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	3.91	822.110	125.000	113.09
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	3.91	1797.027	250.000	241.37
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	3.91	4030.941	500.000	535.30
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	3.91	12192.002		1609.13
+
+Compound 20:  orientin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	1.57	16.445	15.000	14.73
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	1.56	43.695	30.000	23.77
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	1.56	106.842	62.000	44.70
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	1.56	283.617	125.000	103.31
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	1.56	678.754	250.000	234.30
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	1.57	1664.785	500.000	561.19
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	1.56	690.415		238.17
+
+Compound 21:  eupatilin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	4.26	99.221	15.000	14.03
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	4.26	228.406	30.000	24.81
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	4.26	567.127	62.000	53.08
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	4.27	1367.583	125.000	119.89
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	4.27	2917.689	250.000	249.27
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	4.27	6172.097	500.000	520.90
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	4.26	1358.804		119.16
+
+Compound 22:  guayjaverin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	2.00	18.201	15.000	14.50
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	2.01	36.819	30.000	18.17
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	2.00	200.336	62.000	50.38
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	2.00	448.973	125.000	99.36
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	2.00	1197.621	250.000	246.84
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	2.00	2750.569	500.000	552.76
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	2.00	480.635		105.60
+
+Compound 23:  morusin
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard			15.000	
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	7.08	693.167	30.000	30.13
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	7.08	1437.572	62.000	75.50
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	7.08	2716.985	125.000	153.48
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	7.08	4617.280	250.000	269.31
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	7.08	7394.656	500.000	438.59
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	7.07	13126.590		787.96
+
+Compound 24:  corylifol A
+
+	#	Name	Sample Text	Type	RT	Area	Std. Conc	pg on column
+1	1	scic_synapt_cvb_code_369	mix_2	Standard	6.62	403.317	21.000	18.22
+2	2	scic_synapt_cvb_code_370	mix_3	Standard	6.62	894.051	42.000	42.25
+3	3	scic_synapt_cvb_code_371	mix_4	Standard	6.62	1961.913	84.000	94.53
+4	4	scic_synapt_cvb_code_372	mix_5	Standard	6.62	3742.714	166.000	181.71
+5	5	scic_synapt_cvb_code_373	mix_6	Standard	6.62	6619.691	312.000	322.56
+6	6	scic_synapt_cvb_code_374	mix_7	Standard	6.62	12097.684	625.000	590.74
+7	7	scic_synapt_cvb_code_386	octal_UPLC	Analyte	6.62	2686.468		130.00
+
