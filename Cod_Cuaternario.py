@@ -1,149 +1,177 @@
-import pandas as pd
 import re
-from openpyxl import load_workbook
+import pandas as pd
 import numpy as np
 from PIL import Image
 
-# Step 1: Transform the text file into an Excel file (filling empty cells with 0)
-# Specify the input text file containing the raw data
-input_text_file = 'quaternary.txt'  # Replace with your input file name
-data = []
-compound_name = None
+# Read the Excel file without assuming headers
+excel_path = r'C:\Users\tinajero\Desktop\codes_Cristopher\code4_QUAT_script2\QUAT_FIA\code1.xlsx'
+# Use the appropriate sheet (in this case, the first one)
+df_excel = pd.read_excel(excel_path, sheet_name=0, header=None)
 
-# Regular expressions to match compound names and data rows
-compound_pattern = re.compile(r"Compound \d+:  (.+)")  # Matches compound headers like "Compound 1: ..."
-data_pattern = re.compile(r"(\d+)\s+(\d+)\s+(\S+)\s+(\S+)\s+([\d\.]*)\s+([\d\.]*)\s+([\d\.]*)\s*([\d\.]*)\s+(\S*)\s*([\d\.\-]*)\s*([\d\.\-]*)")  # Matches data rows
-
-# Parse the input text file and extract data
-with open(input_text_file, 'r') as file:
-    for line in file:
-        compound_match = compound_pattern.match(line)
-        if compound_match:
-            compound_name = compound_match.group(1).strip().lower()
-            continue
-
-        match = data_pattern.match(line)
-        if match:
-            row = [compound_name] + list(match.groups())
-            data.append(row)
-
-# Define column names for the DataFrame
-columns = ["Compound", "#", "ID", "Type", "Std. Conc", "RT", "Area", "IS Area", "Response", "Detection Flags", "pg on column", "%Dev"]
-df_transformed = pd.DataFrame(data, columns=columns)
-
-# Convert numeric columns and fill empty cells with 0
-for col in ["#", "Std. Conc", "RT", "Area", "IS Area", "Response", "pg on column", "%Dev"]:
-    df_transformed[col] = pd.to_numeric(df_transformed[col], errors='coerce').fillna(0)
-df_transformed = df_transformed.fillna(0)
-
-# Save the transformed data to an Excel file
-# Specify the output Excel file name
-transformed_excel_path = 'transformed_compounds.xlsx'  # Replace with your desired file name
-df_transformed.to_excel(transformed_excel_path, index=False)
-print(f"Transformed file saved to {transformed_excel_path}")
-
-# Step 2: Load the original Excel file and extract compound names
-# Specify the input Excel file containing the original data
-excel_file_path = 'quaternary.xlsx'  # Replace with your input file name
-df_original = pd.read_excel(excel_file_path, header=None)
-
-# Lists to store compound names and their locations in the original file
-compounds = []
-compound_locations = []
-compound_found = False
-
-# Search for the "Compound" header in the original Excel file
-for index, row in df_original.iterrows():
-    for col_index, cell in enumerate(row):
-        if isinstance(cell, str) and cell.strip().lower() == 'compound':
-            compound_found = True
+# Search for the cell containing "Compound" (case- and whitespace-insensitive)
+compound_position = None
+for i in range(df_excel.shape[0]):
+    for j in range(df_excel.shape[1]):
+        val = str(df_excel.iat[i, j]).strip()
+        if "compound" in val.lower():
+            compound_position = (i, j)
             break
+    if compound_position:
+        break
 
-    if compound_found and pd.notna(row[1]):
-        compound_name = row[1]
-        if isinstance(compound_name, str) and compound_name.lower().strip() != 'compound':
-            compounds.append(compound_name.strip().lower())  # Clean spaces and convert to lowercase
-            compound_locations.append((index, 1))
+if compound_position is not None:
+    row_compound, col_compound = compound_position
+    compounds = []
+    for row in range(row_compound + 1, df_excel.shape[0]):
+        cell = df_excel.iat[row, col_compound]
+        # Stop if the cell is empty or NaN
+        if pd.isna(cell) or str(cell).strip() == "":
+            break
+        compounds.append(str(cell).strip())
+    print("Compounds found:", compounds)
+else:
+    print("The word 'Compound' was not found in the Excel sheet.")
+    compounds = []
 
-# Step 3: Extract and classify concentration values for vials 7-19
-df_transformed = pd.read_excel(transformed_excel_path)
-concentration_data = {}
+compound_names = compounds
 
-for compound in compounds:
-    # Filter rows by compound name and vials 7-19
-    filtered_rows = df_transformed[(df_transformed['Compound'] == compound) & 
-                                   (df_transformed['#'].between(7, 19))]
-    # Extract concentration values
-    concentrations = filtered_rows['pg on column'].tolist()
-    
-    # Classify concentrations into predefined ranges
-    classified_concentrations = []
-    for conc in concentrations:
-        if conc < 70:
-            classified_concentrations.append(0)
-        elif 70 <= conc <= 250:
-            classified_concentrations.append(1)
-        elif 250 < conc <= 700:
-            classified_concentrations.append(2)
-        else:
-            classified_concentrations.append(3)
+# Read the full content of the text file
+text_path = r'C:\Users\tinajero\Desktop\codes_Cristopher\code4_QUAT_script2\QUAT_FIA\decoded_output.txt'
+with open(text_path, 'r', encoding='utf-8', errors='replace') as f:
+    lines = f.readlines()
 
-    # Ensure exactly 10 values per compound, filling with 0s if fewer
-    if len(classified_concentrations) < 10:
-        classified_concentrations += [0] * (10 - len(classified_concentrations))
-    elif len(classified_concentrations) > 10:
-        classified_concentrations = classified_concentrations[:10]  # Limit to 10 values
+def extract_compound_block(compound, lines):
+    """
+    Searches for the section starting with "Compound n: <compound>"
+    and returns the lines until the next "Compound n:" appears.
+    """
+    pattern = re.compile(r'Compound\s+\d+:\s+' + re.escape(compound), re.IGNORECASE)
+    start_index = None
+    for i, line in enumerate(lines):
+        if pattern.search(line):
+            start_index = i
+            break
+    if start_index is None:
+        return []
+    block = []
+    for j in range(start_index + 1, len(lines)):
+        if re.search(r'Compound\s+\d+:\s+', lines[j], re.IGNORECASE):
+            break
+        block.append(lines[j].strip())
+    return block
 
-    concentration_data[compound] = classified_concentrations
+def extract_analyte_areas(block_lines):
+    """
+    From the block of a compound, search for lines where the "Type" is "Analyte" (case-insensitive).
+    For each line, extract the last token and attempt to convert it to float.
+    Returns a list of values (one per "Analyte" line).
+    """
+    areas = []
+    for line in block_lines:
+        if "analyte" in line.lower():
+            parts = line.split()
+            try:
+                area = float(parts[-1])
+            except:
+                area = 0.0
+            areas.append(area)
+    return areas
 
-# Step 4: Write classified values to the original Excel file
-# Open the original workbook
-workbook = load_workbook(excel_file_path)
-sheet = workbook.active  # Use the first active sheet
+# Prepare a structure to store up to 10 vial values per compound
+data = []
+expected_vials = 10
 
-# Create a data matrix for visualization and update the Excel file
-matrix_data = []
-for compound, (row_index, col_index) in zip(compounds, compound_locations):
-    # Get classified concentrations or fill with 10 zeros if compound is missing
-    classified_concentrations = concentration_data.get(compound, [0] * 10)
-    matrix_data.append(classified_concentrations)
+for comp in compound_names:
+    block = extract_compound_block(comp, lines)
+    areas = extract_analyte_areas(block)
+    if not areas:
+        print(f"No 'Analyte' lines found for compound: {comp}")
+    # Pad with zeros if fewer than 10 values
+    if len(areas) < expected_vials:
+        areas += [0.0] * (expected_vials - len(areas))
+    # Trim if more than 10 values
+    areas = areas[:expected_vials]
 
-    # Write each classified value to the corresponding columns
-    for i in range(10):
-        sheet.cell(row=row_index + 1, column=col_index + 2 + i, value=classified_concentrations[i])
+    # Build a dictionary for each row
+    row_dict = {"Compound": comp}
+    for i in range(expected_vials):
+        row_dict[f"vial{i+1}"] = areas[i]
+    data.append(row_dict)
 
-# Save the updated Excel file
-workbook.save(excel_file_path)
-print("Excel file updated with classified concentration values.")
+# Create and display the table (DataFrame)
+df_areas = pd.DataFrame(data)
+print("\n=== DataFrame with Areas ===")
+print(df_areas)
+print(df_areas.to_markdown(index=False))
 
-# Step 5: Create a heatmap image from the classification matrix
-matrix_array = np.array(matrix_data)
+# Convert each area value to an octal classification based on defined thresholds
+def classify_area(concentration):
+    if concentration >= 0 and concentration <= 30:
+        return 0
+    elif concentration > 45 and concentration <= 200:
+        return 1
+    elif concentration > 400 and concentration <= 850:
+        return 2
+    elif concentration > 1050 and concentration <= 1950:
+        return 3
 
-# Define colors for each classification
+vial_columns = [f"vial{i+1}" for i in range(expected_vials)]
+for col in vial_columns:
+    df_areas[col] = df_areas[col].apply(classify_area)
+
+print("\n=== DataFrame with Octal Classification ===")
+print(df_areas)
+
+# Create an image representation from the classification matrix
+# Convert the DataFrame into a matrix (dimensions: n_compounds x 10)
+matrix_data = df_areas[vial_columns].to_numpy()
+n_rows, n_cols = matrix_data.shape
+
+# Define the color mapping for each classification
 color_map = {
     0: [0, 0, 0],       # Black
     1: [0, 255, 0],     # Green
-    2: [255, 255, 0],   # Yellow
-    3: [255, 0, 0]      # Red
+    2: [0, 0, 255],     # Blue
+    3: [255, 255, 0],   # Yellow
+    4: [255, 165, 0],   # Orange
+    5: [255, 0, 0],     # Red
+    6: [128, 0, 128],   # Purple
+    7: [255, 255, 255]  # White
 }
 
-# Generate the heatmap image based on classification data
-image_data = np.zeros((matrix_array.shape[0], matrix_array.shape[1], 3), dtype=np.uint8)
-for i in range(matrix_array.shape[0]):
-    for j in range(matrix_array.shape[1]):
-        image_data[i, j] = color_map[matrix_array[i, j]]
+# ANSI color map for console output
+ansi_color_map = {
+    0: "\033[40m",        # Black background
+    1: "\033[42m",        # Green background
+    2: "\033[44m",        # Blue background
+    3: "\033[43m",        # Yellow background
+    4: "\033[48;5;208m",  # Orange background (256-color mode)
+    5: "\033[41m",        # Red background
+    6: "\033[45m",        # Purple background
+    7: "\033[47m"         # White background
+}
+reset = "\033[0m"
 
-# Scale the image for better visibility
-scale_factor = 20  # Adjust scale factor as needed
-large_image = Image.fromarray(image_data, 'RGB').resize(
-    (image_data.shape[1] * scale_factor, image_data.shape[0] * scale_factor), Image.NEAREST
-)
+# Console representation of the matrix
+print("\nConsole representation of the image:")
+for i in range(n_rows):
+    row_str = ""
+    for j in range(n_cols):
+        value = matrix_data[i, j]
+        row_str += ansi_color_map[value] + "  " + reset
 
-# Save the scaled heatmap image
-large_image.save("concentration_classification.png")
-print("Heatmap image saved as concentration_classification.png")
+# Rotate the matrix to orient the image horizontally if needed
+matrix_data_rot = np.rot90(matrix_data, k=-1)
+n_rows_rot, n_cols_rot = matrix_data_rot.shape
 
-# Create and save a rotated and flipped version of the heatmap
-corrected_image = large_image.rotate(-90, expand=True).transpose(Image.FLIP_LEFT_RIGHT)
-corrected_image.save("concentration_classification_corrected.png")
-print("Corrected heatmap image saved as concentration_classification_corrected.png")
+# Flip horizontally for correct visualization
+matrix_data_flipped = np.fliplr(matrix_data_rot)
+n_rows_flip, n_cols_flip = matrix_data_flipped.shape
+
+# Display the flipped matrix in the console
+for i in range(n_rows_flip):
+    row_str = ""
+    for j in range(n_cols_flip):
+        value = matrix_data_flipped[i, j]
+        row_str += ansi_color_map[value] + "  " + reset
+    print(row_str)
