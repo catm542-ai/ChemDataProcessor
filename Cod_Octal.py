@@ -1,154 +1,143 @@
+import re 
 import pandas as pd
-import re
-from openpyxl import load_workbook
 import numpy as np
-from PIL import Image
+# from PIL import Image   # Image generation removed
 
-# Step 1: Transform the text file into an Excel file (fill empty cells with 0)
-# Set the input text file name here:
-input_text_file = 'octal_def_lowlevel.txt'
-data = []
-compound_name = None
+# Read the Excel file without assuming headers
+excel_path = r'C:\Users\tinajero\Desktop\codes_Cristopher\CODE3_octal_script3\code3_octal_FIA\code2.xlsx'
+df_excel = pd.read_excel(excel_path, sheet_name=0, header=None)
 
-# Regular expressions to match compound names and data rows
-compound_pattern = re.compile(r"Compound \d+:  (.+)")
-data_pattern = re.compile(r"(\d+)\s+(\d+)\s+(\S+)\s+(\S+)\s+([\d\.]*)\s+([\d\.]*)\s+([\d\.]*)\s*([\d\.]*)\s+(\S*)\s*([\d\.\-]*)\s*([\d\.\-]*)")
-
-# Read the input text file and extract data
-with open(input_text_file, 'r') as file:
-    for line in file:
-        compound_match = compound_pattern.match(line)
-        if compound_match:
-            compound_name = compound_match.group(1).strip().lower()
-            continue
-
-        match = data_pattern.match(line)
-        if match:
-            row = [compound_name] + list(match.groups())
-            data.append(row)
-
-# Define column names for the DataFrame
-columns = ["Compound", "#", "ID", "Type", "Std. Conc", "RT", "Area", "IS Area", "Response", "Detection Flags", "pg on column", "%Dev"]
-df_transformed = pd.DataFrame(data, columns=columns)
-
-# Convert numeric columns and fill empty cells with 0
-for col in ["#", "Std. Conc", "RT", "Area", "IS Area", "Response", "pg on column", "%Dev"]:
-    df_transformed[col] = pd.to_numeric(df_transformed[col], errors='coerce').fillna(0)
-df_transformed = df_transformed.fillna(0)
-
-# Save the transformed data to an Excel file
-# Set the output Excel file name for the transformed data:
-transformed_excel_path = 'transformed_compounds.xlsx'
-df_transformed.to_excel(transformed_excel_path, index=False)
-print(f"Transformed file saved to {transformed_excel_path}")
-
-# Step 2: Load the original Excel file and extract compound names
-# Set the input Excel file name here:
-excel_file_path = 'octal.xlsx'
-df_original = pd.read_excel(excel_file_path, header=None)
-
-# Lists to store compound names and their locations in the original file
-compounds = []
-compound_locations = []
-compound_found = False
-
-# Search for the "compound" column in the original Excel file
-for index, row in df_original.iterrows():
-    for col_index, cell in enumerate(row):
-        if isinstance(cell, str) and cell.strip().lower() == 'compound':
-            compound_found = True
+# Search for the cell containing "Compound" (case- and whitespace-insensitive)
+compound_position = None
+for i in range(df_excel.shape[0]):
+    for j in range(df_excel.shape[1]):
+        val = str(df_excel.iat[i, j]).strip()
+        if "compound" in val.lower():
+            compound_position = (i, j)
             break
+    if compound_position:
+        break
 
-    if compound_found and pd.notna(row[1]):
-        compound_name = row[1]
-        if isinstance(compound_name, str) and compound_name.lower().strip() != 'compound':
-            compounds.append(compound_name.strip().lower())  # Clean spaces and convert to lowercase
-            compound_locations.append((index, 1))
+if compound_position is not None:
+    row_compound, col_compound = compound_position
+    compounds = []
+    for row in range(row_compound + 1, df_excel.shape[0]):
+        cell = df_excel.iat[row, col_compound]
+        # Stop if the cell is empty or NaN
+        if pd.isna(cell) or str(cell).strip() == "":
+            break
+        compounds.append(str(cell).strip())
+    print("Compounds found:", compounds)
+else:
+    print("The word 'Compound' was not found in the Excel sheet.")
+    compounds = []
 
-# Step 3: Extract and classify the seventh vial from the transformed data
-df_transformed = pd.read_excel(transformed_excel_path)
-concentration_data = {}
+compound_names = compounds
 
-for compound in compounds:
-    # Filter rows by compound name and select the seventh vial
-    filtered_rows = df_transformed[(df_transformed['Compound'] == compound) & 
-                                   (df_transformed['#'] == 7)]
-    if not filtered_rows.empty:
-        concentration = filtered_rows.iloc[0]['pg on column']  # Get the seventh vial's value
+# Read the full content of the text file
+text_path = r'C:\Users\tinajero\Desktop\codes_Cristopher\CODE3_octal_script3\code3_octal_FIA\decoded_output.txt'
+with open(text_path, 'r', encoding='utf-8', errors='replace') as f:
+    lines = f.readlines()
+
+def extract_compound_block(compound, lines):
+    """
+    Searches for the section starting with 'Compound n: <compound>'
+    and returns the lines until the next 'Compound n:' appears.
+    """
+    pattern = re.compile(r'Compound\s+\d+:\s+' + re.escape(compound), re.IGNORECASE)
+    start_index = None
+    for i, line in enumerate(lines):
+        if pattern.search(line):
+            start_index = i
+            break
+    if start_index is None:
+        return []
+    block = []
+    for j in range(start_index + 1, len(lines)):
+        if re.search(r'Compound\s+\d+:\s+', lines[j], re.IGNORECASE):
+            break
+        block.append(lines[j].strip())
+    return block
+
+def extract_octal_area(block_lines):
+    """
+    Searches for the line containing 'octal_UPLC' and extracts the last value (concentration).
+    Returns 0.0 if the value cannot be converted to float.
+    """
+    area = 0.0
+    for line in block_lines:
+        if "octal_uplc" in line.lower():
+            parts = line.split()
+            try:
+                area = float(parts[-1])
+            except:
+                area = 0.0
+            break
+    return area
+
+# Build the structure for a single vial per compound
+data = []
+for comp in compound_names:
+    block = extract_compound_block(comp, lines)
+    if not block:
+        print(f"No block found for compound: {comp}")
+        area = 0.0
     else:
-        concentration = 0  # Assume 0 if no data is found
+        area = extract_octal_area(block)
+    data.append({"Compound": comp, "vial1": area})
 
-    # Classify the value based on the specified ranges
-    if concentration < 50:
-        classification = 0
-    elif 50 <= concentration < 80:
-        classification = 1
-    elif 80 <= concentration < 210:
-        classification = 2
-    elif 210 <= concentration < 350:
-        classification = 3
-    elif 350 <= concentration < 475:
-        classification = 4
-    elif 475 <= concentration < 700:
-        classification = 5
-    elif 700 <= concentration < 900:
-        classification = 6
-    else:  # Concentration >= 900
-        classification = 7
+# Create and display the DataFrame
+df_areas = pd.DataFrame(data)
+print("\n=== DataFrame with Areas ===")
+print(df_areas)
+print(df_areas.to_markdown(index=False))
 
-    concentration_data[compound] = classification
+# Convert area values into octal classification based on defined thresholds
+def classify_area(concentration):
+    if concentration >= 0 and concentration <= 30:
+        return 0
+    elif concentration > 30 and concentration <= 70:
+        return 1
+    elif concentration > 70 and concentration <= 130:
+        return 2
+    elif concentration > 130 and concentration <= 260:
+        return 3
+    elif concentration > 260 and concentration <= 500:
+        return 4
+    elif concentration > 500 and concentration <= 750:
+        return 5
+    elif concentration > 750 and concentration <= 1189:
+        return 6
+    else:  # concentration > 1189
+        return 7
 
-# Step 4: Write the classified values to the original Excel file
-# Load the original workbook and active sheet
-workbook = load_workbook(excel_file_path)
-sheet = workbook.active  # Assume the first active sheet
+df_areas["vial1"] = df_areas["vial1"].apply(classify_area)
+print("\n=== DataFrame with Octal Classification ===")
+print(df_areas)
 
-# Create a matrix for visualization and write the classified values
-matrix_data = []
-for compound, (row_index, col_index) in zip(compounds, compound_locations):
-    # Get the classification; write 0 if the compound is missing
-    classification = concentration_data.get(compound, 0)
-    matrix_data.append([classification])  # Only one value per compound
+# Decode the 'vial1' column from octal classification into ASCII text
+# - The list is not reversed.
+# - Each value is translated into 3 bits.
+# - If there are 81 bits, remove the first bit to keep 80 (10 characters).
+# - Group the bits into bytes and convert to ASCII.
 
-    # Write the classification to the appropriate column
-    sheet.cell(row=row_index + 1, column=col_index + 2, value=classification)
+# Step 1: Get the octal values from the DataFrame
+octal_values = df_areas["vial1"].tolist()
 
-# Save the updated Excel file
-workbook.save(excel_file_path)
-print("Excel file updated with classified seventh vial values.")
+# Step 2: Convert each value into a 3-bit binary string and concatenate
+bitstream = ''.join(format(val, '03b') for val in octal_values)
 
-# Step 5: Create an image based on the classification matrix
-# Convert the matrix list into a numpy array
-matrix_array = np.array(matrix_data)
+# Step 3: If 81 bits are present, remove the first to align to 80 bits
+if len(bitstream) == 81:
+    bitstream = bitstream[1:]
 
-# Define colors for each classification
-color_map = {
-    0: [0, 0, 0],       # Black
-    1: [0, 255, 0],     # Green
-    2: [0, 0, 255],     # Blue
-    3: [255, 255, 0],   # Yellow
-    4: [255, 165, 0],   # Orange
-    5: [255, 0, 0],     # Red
-    6: [128, 0, 128],   # Purple
-    7: [255, 255, 255]  # White
-}
+# Step 4: Group into bytes (8 bits) and convert to ASCII characters
+decoded_text = ''
+for i in range(0, len(bitstream), 8):
+    byte = bitstream[i:i+8]
+    if len(byte) == 8:
+        decoded_text += chr(int(byte, 2))
 
-# Create the image from the classification data
-image_data = np.zeros((matrix_array.shape[0], 1, 3), dtype=np.uint8)
-for i in range(matrix_array.shape[0]):
-    image_data[i, 0] = color_map[matrix_array[i, 0]]
-
-# Scale the image to make it larger
-scale_factor = 50  # Adjust scale factor as needed
-large_image = Image.fromarray(image_data, 'RGB').resize(
-    (scale_factor, image_data.shape[0] * scale_factor), Image.NEAREST
-)
-
-# Save the enlarged image
-large_image.save("seventh_vial_classification.png")
-print("Enlarged image saved as seventh_vial_classification.png")
-
-# Create and save the rotated and flipped image
-corrected_image = large_image.rotate(-90, expand=True).transpose(Image.FLIP_LEFT_RIGHT)
-corrected_image.save("seventh_vial_classification_corrected.png")
-print("Corrected image saved as seventh_vial_classification_corrected.png")
+# Display final message
+print("\n=== Octal to Text Decoding ===")
+print("Decoded message:", decoded_text)
